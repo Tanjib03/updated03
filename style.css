@@ -1,0 +1,73 @@
+.jumbotron {
+background-color: rgb(47,114,159);
+background-image: url(pic1.svg),url(background.jpg);
+height: 665px;
+}
+
+.gotext p {
+	color: blue;
+	margin-left: 29px;
+	background-color: white;
+	text-align: center;
+}
+
+.jtext{
+	color: white;
+}
+
+.mobile_text{
+	margin-top: 167px;
+	font-family: arial;
+	font-size: 20px;
+	color: rgb(219,225,228);
+
+}
+
+.mobile_text h3{
+	color: black;
+}
+
+
+.z {
+  background-image: url(saviour.png);
+background-size: cover;
+position: relative;
+
+}
+.z_text {
+ position: absolute;
+    top: 146px;
+    color: white;
+    margin-left: 79px
+}
+
+.girl img{
+       width: 1335px;
+       position: relative;
+}
+.girl_2 img {
+    position: absolute;
+    top:-127px;
+}
+.k {
+    margin-top: 60px;
+    background-color: rgb(244,245,246);
+}
+
+.about img {
+     width: 1625px;
+    height: 225px;
+    position: relative;
+}
+.about_text{
+    position: absolute;
+    top:-202px;
+    color: white;
+    margin-left: 50px;
+}
+.about_menu {
+ position: absolute;
+    top:-202px;
+    color: white;
+    margin-left: 50px;   
+}
